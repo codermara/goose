@@ -1,6 +1,6 @@
 # Goose Game Project
 
-This is a full-stack web application built with modern technologies. The project consists of a React-based frontend and a NestJS-based backend.
+This is a full-stack web application. The project consists of a React-based frontend and a NestJS-based backend.
 
 ## Project Structure
 
