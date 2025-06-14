@@ -109,7 +109,7 @@ npm run test
 
 ## API Documentation
 
-The backend API is documented using Swagger. Once the backend server is running, you can access the API documentation at:
+The backend API.
 ```
 http://localhost:3000/api
 ```
