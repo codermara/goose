@@ -50,7 +50,6 @@ The backend is built with:
 - Prisma as the ORM
 - JWT authentication
 - Passport for authentication strategies
-- Swagger for API documentation
 
 ### Backend Setup
 
