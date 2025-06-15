@@ -39,7 +39,6 @@ export class AuthService {
     let user = await this.validateUser(username, password);
     
     if (!user) {
-      // Проверка существования пользователя
       this.logger.debug(`User not found, creating new user: ${username}`);
       const hashedPassword = await bcrypt.hash(password, 10);
       let role: UserRole = UserRole.SURVIVOR;
