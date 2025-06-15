@@ -1,6 +1,6 @@
 # Goose Game Project
 
-This is a full-stack web application built with modern technologies. The project consists of a React-based frontend and a NestJS-based backend.
+This is a full-stack web application. The project consists of a React-based frontend and a NestJS-based backend.
 
 ## Project Structure
 
@@ -50,7 +50,6 @@ The backend is built with:
 - Prisma as the ORM
 - JWT authentication
 - Passport for authentication strategies
-- Swagger for API documentation
 
 ### Backend Setup
 
@@ -109,7 +108,7 @@ npm run test
 
 ## API Documentation
 
-The backend API is documented using Swagger. Once the backend server is running, you can access the API documentation at:
+The backend API.
 ```
 http://localhost:3000/api
 ```
